@@ -1,0 +1,6 @@
+One great advantage about etherium is that no one can modify or undo your transactions.
+one great disadvantage is that there is no central power to undo one's mistake or illicit transactions
+
+
+            common mistakes commited by erc-20 users
+    a)
